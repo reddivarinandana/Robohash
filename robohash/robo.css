@@ -1,0 +1,48 @@
+.navbar{
+    display: flex;
+    /* width:100%; */
+    background-color: black;
+    color:white;
+    height: 60px; 
+    padding:1px 0px;
+}
+h1{
+    margin: auto;
+}
+.searchrobo{
+    margin-top: 100px;
+    height: 40px;
+    width: 400px;
+    border:1px solid black;
+    margin-left: 400px;
+}
+.btn{
+    height: 43px;
+    width: 70px;
+    margin-top: 100px;
+    border: 1px solid black;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.display{
+    margin-left: 100px;
+    display: flex;
+}
+
+.image{
+   margin-left: 600px;
+   margin-top: 50px;
+    border:1px solid red;
+    
+}
+.source{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+}
+h2{
+    margin-left: 600px;
+}
+.picture{
+    display: flex;
+}
